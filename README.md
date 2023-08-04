@@ -58,7 +58,6 @@ Hence, The Issues faced by Miners are reduced  to a Great   extent Decreased amo
 
 Future Scope :
 Further it can be improved by the integrating more sensors on the helmet such as heart rate sensor and other gas sensors in order to take safety measures over miner’s health .and also Actual mine conditions with all the emergencies can be simulated and the miners can be trained in the simulated environment for better performance and intelligent responses. They must also be given proper training and licenses for the explosive handling inside the mines.
-![image](https://github.com/all3n2601/Smart-Helmet-For-Miners-Using-Arduino/assets/105870053/037b468c-a4ae-479f-b1d6-fc8987738408)
 
 
 
